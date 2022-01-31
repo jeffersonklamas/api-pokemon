@@ -55,7 +55,7 @@ function insertPokemonHTML(pokemon){
                             HP
                         </span>
                         <div class="pokemons-card-attributes-progress">
-                            <div class="pokemons-card-attributes-progress-bar style="width: ${hpStat.base_stat}%"></div>
+                            <div class="pokemons-card-attributes-progress-bar" style="width: ${hpStat.base_stat}%"></div>
                         </div>
                     </li>
                     <li class="pokemons-card-attributes-item">
